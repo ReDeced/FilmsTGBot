@@ -12,8 +12,8 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/ваш-репозиторий.git
-cd ваш-репозиторий
+git clone https://github.com/ReDeced/FilmsTGBot.git
+cd FilmsTGBot
 ```
 
 2. Установить зависимости:
@@ -36,7 +36,7 @@ GIGA_AUTH_KEY=ваш_ключ_gigachat
    - Полученный токен добавьте в `.env`
 
 2. **GigaChat API Key**:
-   - Зарегистрируйтесь на [GigaChat API](https://developers.sber.ru/portal/products/gigachat)
+   - Зарегистрируйтесь на [GigaChat API](https://developers.sber.ru/studio/workspaces/my-space/get/gigachat-api)
    - Получите ключ авторизации и добавьте в `.env`
 
 ## Запуск бота
